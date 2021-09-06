@@ -1,0 +1,2 @@
+# stationary-management.ipynb
+It gives me immense pleasure to present before you all my First Inventory Management project called as "stationary management". It mainly includes the basic details of our day-to-day required stationary products , their adding,their sales, purchase, etc. Also after purchasing number of stationary products ,the code will help in generating the customized bill receipt.  I have learnt a lot from this project and it was really a great experience for me.
